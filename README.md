@@ -1,4 +1,4 @@
-# QLearning
+# QLearning Exploration
 
 ### Year
 2022
