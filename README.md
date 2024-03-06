@@ -1,6 +1,4 @@
-# QLearningExploration
-
-## Academic Project
+# QLearning
 
 ### Year
 2022
